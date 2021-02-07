@@ -7,19 +7,19 @@ The following repository presents an Image Inpainting project. The inpainting pr
 
 ## Results
 
-| Initial image               | Pyheal                        |
+| Initial image               | Inpainted image               |
 | :-------------------------: | :---------------------------: |
 | [![][im1_in_thumb]][im1_in] | [![][im1_out_thumb]][im1_out] |
 | [![][im2_in_thumb]][im2_in] | [![][im2_out_thumb]][im2_out] |
 
-[im1_in]: https://github.com/Pushkar-Bhuse/ImageInpainting/master/blob/raw_image1.png
-[im1_in_thumb]: https://github.com/Pushkar-Bhuse/ImageInpainting/master/blob/raw_image1.png
-[im1_out]: https://github.com/Pushkar-Bhuse/ImageInpainting/master/blob/inpainted1.png
-[im1_out_thumb]: https://github.com/Pushkar-Bhuse/ImageInpainting/master/blob/inpainted1.png
-[im2_in]: https://github.com/Pushkar-Bhuse/ImageInpainting/master/blobraw_image2.png
-[im2_in_thumb]: https://github.com/Pushkar-Bhuse/ImageInpainting/master/blobraw_image2.png
-[im2_out]: https://github.com/Pushkar-Bhuse/ImageInpainting/master/blobinpainted2.png
-[im2_out_thumb]: https://github.com/Pushkar-Bhuse/ImageInpainting/master/blobinpainted2.png
+[im1_in]: https://raw.github.com/Pushkar-Bhuse/ImageInpainting/master/blob/raw_image1.png
+[im1_in_thumb]: https://raw.github.com/Pushkar-Bhuse/ImageInpainting/master/blob/raw_image1.png
+[im1_out]: https://raw.github.com/Pushkar-Bhuse/ImageInpainting/master/blob/inpainted1.png
+[im1_out_thumb]: https://raw.github.com/Pushkar-Bhuse/ImageInpainting/master/blob/inpainted1.png
+[im2_in]: https://raw.github.com/Pushkar-Bhuse/ImageInpainting/master/blobraw_image2.png
+[im2_in_thumb]: https://raw.github.com/Pushkar-Bhuse/ImageInpainting/master/blobraw_image2.png
+[im2_out]: https://raw.github.com/Pushkar-Bhuse/ImageInpainting/master/blobinpainted2.png
+[im2_out_thumb]: https://raw.github.com/Pushkar-Bhuse/ImageInpainting/master/blobinpainted2.png
 
 
 ## Instructions to Run

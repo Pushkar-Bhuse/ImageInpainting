@@ -23,7 +23,7 @@ The following repository presents an Image Inpainting project. The inpainting pr
 
 
 ## Instructions to Run
-In order to access the API hosted as a serverless **AWS Lambda Funtion**, run the following command.
+In order to access the API hosted as a serverless **AWS Lambda Function**, run the following command.
 ```
 python3 api_access.py
 ```

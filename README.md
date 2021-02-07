@@ -9,8 +9,8 @@ The following repository presents an Image Inpainting project. The inpainting pr
 
 | Initial image               | Inpainted Image               | 
 | :-------------------------: | :---------------------------: | 
-| ![alt text](https://github.com/Pushkar-Bhuse/ImageInpainting/blob/master/raw_image1.png?raw=true) | ![alt text (https://github.com/Pushkar-Bhuse/ImageInpainting/blob/[branch]/inpainted1.png?raw=true) | 
-| ![alt text](https://github.com/Pushkar-Bhuse/ImageInpainting/blob/master/raw_image2.png?raw=true) | ![alt text (https://github.com/Pushkar-Bhuse/ImageInpainting/blob/[branch]/inpainted2.png?raw=true) | 
+| ![alt text](https://github.com/Pushkar-Bhuse/ImageInpainting/blob/master/raw_image1.png?raw=true) | ![alt text] (https://github.com/Pushkar-Bhuse/ImageInpainting/blob/master/inpainted1.png?raw=true) | 
+| ![alt text](https://github.com/Pushkar-Bhuse/ImageInpainting/blob/master/raw_image2.png?raw=true) | ![alt text] (https://github.com/Pushkar-Bhuse/ImageInpainting/blob/master/inpainted2.png?raw=true) | 
 
 ## Instructions to Run
 In order to access the API hosted as a serverless AWS Lambda Funtion, run the following command.

@@ -25,6 +25,6 @@ The following repository presents an Image Inpainting project. The inpainting pr
 ## Instructions to Run
 In order to access the API hosted as a serverless **AWS Lambda Function**, run the following command.
 ```
-python3 api_access.py
+python api_access.py
 ```
 **NOTE:** Before running this file, do not forget to add the source and desitation path of raw image and inpainted image respectively (Images have to be in PNG format).

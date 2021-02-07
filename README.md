@@ -7,7 +7,7 @@ The following repository presents an Image Inpainting project. The inpainting pr
 
 [Python version used == 3.7]
 
-## Results
+## Sample Results
 
 | Initial image               | Inpainted image               |
 | :-------------------------: | :---------------------------: |

@@ -5,6 +5,8 @@ The following repository presents an Image Inpainting project. The inpainting pr
 - numpy
 - Pillow
 
+[Python version used == 3.7]
+
 ## Results
 
 | Initial image               | Inpainted image               |

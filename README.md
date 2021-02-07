@@ -16,9 +16,9 @@ The following repository presents an Image Inpainting project. The inpainting pr
 [im1_in_thumb]: https://raw.github.com/Pushkar-Bhuse/ImageInpainting/master/blob/raw_image1.png
 [im1_out]: https://raw.github.com/Pushkar-Bhuse/ImageInpainting/master/blob/inpainted1.png
 [im1_out_thumb]: https://raw.github.com/Pushkar-Bhuse/ImageInpainting/master/blob/inpainted1.png
-[im2_in]: https://raw.github.com/Pushkar-Bhuse/ImageInpainting/master/blobraw_image2.png
-[im2_in_thumb]: https://raw.github.com/Pushkar-Bhuse/ImageInpainting/master/blobraw_image2.png
-[im2_out]: https://raw.github.com/Pushkar-Bhuse/ImageInpainting/master/blobinpainted2.png
+[im2_in]: https://raw.github.com/Pushkar-Bhuse/ImageInpainting/master/blob/raw_image2.png
+[im2_in_thumb]: https://raw.github.com/Pushkar-Bhuse/ImageInpainting/master/blob/raw_image2.png
+[im2_out]: https://raw.github.com/Pushkar-Bhuse/ImageInpainting/master/blob/inpainted2.png
 [im2_out_thumb]: https://raw.github.com/Pushkar-Bhuse/ImageInpainting/master/blobinpainted2.png
 
 

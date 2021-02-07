@@ -29,4 +29,6 @@ In order to access the API hosted as a serverless **AWS Lambda Function**, run t
 ```
 python api_access.py
 ```
+In order to refer to the AWS Lambda Function, checkout lambda_function.py.
+
 **NOTE:** Before running this file, do not forget to add the source and desitation path of raw image and inpainted image respectively (Images have to be in PNG format).

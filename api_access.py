@@ -4,7 +4,8 @@ import io
 
 
 def main():
-    sample_image_path = "ADD PNG IMAGE PATH HERE"
+    sample_image_path = "ADD PNG IMAGE FILE PATH HERE"
+    inpainted_image_path = "ADD DESTINATION FILE PATH HERE"
 
     header = { "content-type": "image/png" }
     with open(sample_image_path, "rb") as f:
@@ -18,7 +19,7 @@ def main():
 
     data = resp.content
     image_data = Image.open(io.BytesIO(data))
-    image_data.save("FinalInpaintedImage.png")
+    image_data.save(inpainted_image_path)
 
 if __name__ == "__main__":
     main()

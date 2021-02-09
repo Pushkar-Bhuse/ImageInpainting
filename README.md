@@ -1,7 +1,7 @@
 # Image Inpainting
 The following repository presents an Image Inpainting project. The inpainting process employs the **Fast Marching Method** to produce distance maps of the points in a region from the boundary of that. To limit the scope of this project, it is only designed to eradicate _yellow_ lines from images. Due to this constraint, image masks can be generated automatically to detect yellow lines to be inpainted over.
 
-## Technologies Used
+## Dependencies Used
 - numpy
 - Pillow
 
